@@ -1,3 +1,10 @@
+#include<iostream>
+#include<cstdlib>
+#include<chrono>
+#include<fstream>
+
+//ZMIENNE GLOBALNE
+unsigned long long loop_counter,changes_counter,I;
 
 //DEKLARACJE FUNKCJI
 void filltab(double *,unsigned long long N);

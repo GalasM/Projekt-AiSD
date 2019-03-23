@@ -1,15 +1,6 @@
-#include<iostream>
-#include<cstdlib>
-#include<chrono>
-#include<fstream>
-#include "main.h"
-
-//ZMIENNE GLOBALNE
-unsigned long long loop_counter,changes_counter,I;
+#include"main.h"
 
 using namespace std;
-
-
 
 int main()
 {
